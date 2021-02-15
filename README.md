@@ -1,5 +1,6 @@
 # Flipkart-Review-Scrapper
-A Python based Web Crawlers for Product Review Sentiment Analysis, deployed it on Heroku.
+A Python based Web Crawler for extracting Product Review and its image, to use it for Sentiment Analysis.
+
 I have used Flask as a micro framework and BeautifulSoup as a parser for HTML. For Running it on local Server, I have used MongoDB dataBase.
 With index.html file you will be able to search the item, whereas results.html file will fetch you the records of Data Scrapped from Flipkart.com 
 
