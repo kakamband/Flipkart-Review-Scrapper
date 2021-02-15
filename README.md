@@ -12,3 +12,10 @@ Requirement.txt will help you to import the correct version of libraries used in
 howtorun file is added for running it on Heroku Platform.
 
 With index.html file you will be able to search the item, whereas results.html file will fetch you the records of Data Scrapped from Flipkart.com 
+
+### Search Page
+![alt text](https://github.com/lksh97/Flipkart-Review-Scrapper/blob/main/Flipkart/Screenshot%202021-02-15%20at%206.03.19%20PM.png)
+
+
+### Fetched Result
+![alt text](https://github.com/lksh97/Flipkart-Review-Scrapper/blob/main/Flipkart/imgonline-com-ua-twotoone-OtX2x8pOdcw.jpg)
